@@ -1,0 +1,1004 @@
+D:\python\python.exe D:\Code\Python\Lab6\classification.py 
+第 1 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 test to predict breast cancer relaps is approv
+第 2 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 two hussein alli ar hang iraqi offici sai
+第 3 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 sight and sound from ce
+第 4 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 schuei see ferrari unveil new car
+第 5 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 close and cancel top advic on flu outbreak
+第 6 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 truck swallow in subwai collaps
+第 7 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 sarkozi letter surpris french cartoon hear
+第 8 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 build a memori to a son on child at a time
+第 9 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 lawmak seek ipod ban in crosswalk in new york
+第 10 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 diabet wait month for eyeglass
+第 11 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 sudan tell unit nation envoi to leav in hour
+第 12 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 year on but coupl still hug
+第 13 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 defens to challeng russert s credibl
+第 14 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 ozzi a hero for the hard rock mass
+第 15 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 cia leak trial summari
+第 16 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 danc movi take over no
+第 17 组数据，结果正确 预测标签为 6 正确标签为 6 数据为 asian nation urg myanmar reform
+第 18 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 after iraq trip clinton propos war limit
+第 19 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 dead in apart build fire
+第 20 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 male sweat boost women s hormon level
+第 21 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 carphon warehous s mix signal
+第 22 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 democrat plot bush troop increas censur
+第 23 组数据，结果错误 预测标签为 5 正确标签为 1 数据为 cisco sue appl over iphon name
+第 24 组数据，结果错误 预测标签为 4 正确标签为 2 数据为 bb star jackson deni goodi comment
+第 25 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 inter milan set seri a win record
+第 26 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 us airwai boost bid for delta
+第 27 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 press see hope in mecca talk
+第 28 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 bear fan lose bet and chang name
+第 29 组数据，结果正确 预测标签为 2 正确标签为 2 数据为 global nation major child porn ring bust
+第 30 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 human hair clue in hunt for airlin
+第 31 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 johnni depp to make movi of spy poison
+第 32 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 realli the claim the pill can make you put on weight
+第 33 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 monei makeov
+第 34 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 tb to pai m fine for ad campaign bomb scare
+第 35 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 stomp the yard ha win move in it weekend debut
+第 36 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 discov boi bring shock joi
+第 37 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 bernhard set to leav volkswagen
+第 38 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 pacer jackson miss gun hear
+第 39 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 case when the simpl solut is the right on
+第 40 组数据，结果错误 预测标签为 4 正确标签为 1 数据为 two muslim group sue french newspap intern
+第 41 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 golden globe on their wai
+第 42 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 at new ozzfest freedom ain t free
+第 43 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 feder hand tough aussi draw
+第 44 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 protest end strike as nepal pm conced demand
+第 45 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 turner pai for boston bomb
+第 46 组数据，结果错误 预测标签为 4 正确标签为 2 数据为 two detain in bodi part mail
+第 47 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 essai about that mean streak of your psychiatri can do onli so much
+第 48 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 hussein s niec plead for father s life
+第 49 组数据，结果错误 预测标签为 4 正确标签为 1 数据为 sarkozi head for clash in cartoon row
+第 50 组数据，结果错误 预测标签为 2 正确标签为 1 数据为 global web of suspect in child rape download
+第 51 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 blake defeat moya to retain titl
+第 52 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 storm kill knock out power cancel flight
+第 53 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 aquarium put ail beluga whale to sleep
+第 54 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 microsoft soni we have a problem
+第 55 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 a polic state the issu
+第 56 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 move to ban ipod from cross the street
+第 57 组数据，结果错误 预测标签为 3 正确标签为 4 数据为 india s taj mahal get facelift
+第 58 组数据，结果错误 预测标签为 4 正确标签为 1 数据为 chenei to congress can t run iraq war by committe
+第 59 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 ganguli hand india squad call up
+第 60 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 fortun look beyond the iphon
+第 61 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 realli the claim the back seat of a car is the safest place to sit
+第 62 组数据，结果错误 预测标签为 5 正确标签为 1 数据为 vaccin mandat upset legisl
+第 63 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 new analysi iranian boast is put to test
+第 64 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 panel issu bleak report on climat chang
+第 65 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 virtual american idol hit right note
+第 66 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 iraq car bomb kill peopl wound more than
+第 67 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 stomp step to no at box offic
+第 68 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 googl execut act as goodwil envoi
+第 69 组数据，结果正确 预测标签为 3 正确标签为 3 数据为 filipino woman kidnap in nigeria
+第 70 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 seahawk bear vie for shot at nfl titl
+第 71 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 brown not buri as estat issu loom
+第 72 组数据，结果错误 预测标签为 3 正确标签为 6 数据为 will rob cohen direct third mummi
+第 73 组数据，结果错误 预测标签为 6 正确标签为 4 数据为 eu will urg china to go green
+第 74 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 th centuri remedi st centuri potenc
+第 75 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 forecast expect toasti
+第 76 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 sunshin goydo win soni open
+第 77 组数据，结果错误 预测标签为 4 正确标签为 2 数据为 teacher charg with sex assault
+第 78 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 merck gardasil mai fight more strain
+第 79 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 mountain glacier melt faster unit nation sai
+第 80 组数据，结果错误 预测标签为 3 正确标签为 5 数据为 snow caus airport closur in britain
+第 81 组数据，结果错误 预测标签为 3 正确标签为 4 数据为 bananaconda inventor is top poet of kid
+第 82 组数据，结果错误 预测标签为 5 正确标签为 1 数据为 sharehold sue appl
+第 83 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 isra retali after attack by lebanes armi
+第 84 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 deadli bird flu confirm in british turkei
+第 85 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 too littl sleep mai mean too fat kid
+第 86 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 bath mom awak to find babi dead
+第 87 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 visitor to eiffel tower climb to record in
+第 88 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 more sleep healthier slimmer children
+第 89 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 queen battl bond for bafta
+第 90 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 walter on trump poor pathet man
+第 91 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 ic storm smack road power
+第 92 组数据，结果错误 预测标签为 6 正确标签为 3 数据为 iran sai it will strike us interest if attack
+第 93 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 palestinian faction to resum talk
+第 94 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 studi men s sweat trigger high sexual arous in women
+第 95 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 outcri at n korea nuclear test
+第 96 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 russia plan major militari build up
+第 97 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 archaeologist find remain of coupl lock in a hug
+第 98 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 stenson defend hi titl at dubai
+第 99 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 take the plung
+第 100 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 updat on world s top stori
+第 101 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 man ride stationari bike for hour
+第 102 组数据，结果错误 预测标签为 6 正确标签为 3 数据为 ic storm coat midwest
+第 103 组数据，结果错误 预测标签为 4 正确标签为 1 数据为 a mistrial for lieut watada
+第 104 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 iran warn will hit back at us if attack
+第 105 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 asean talk end on energi secur
+第 106 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 iraqi death toll exceed in unit nation sai
+第 107 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 israel intensifi militari flight over lebanon
+第 108 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 new gadget galor at tech show
+第 109 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 anoth death at georgia aquarium
+第 110 组数据，结果错误 预测标签为 6 正确标签为 3 数据为 us to urg nato afghan spring offens
+第 111 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 uk letter bomb mai be from extremist driver
+第 112 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 asia seek breakthrough on north korea
+第 113 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 feder overcom a rag start
+第 114 组数据，结果错误 预测标签为 4 正确标签为 1 数据为 rowdi fan eject from the open
+第 115 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 terai protest hail histor victori over govern
+第 116 组数据，结果正确 预测标签为 1 正确标签为 1 数据为 anger at releas of two held over behead plot
+第 117 组数据，结果错误 预测标签为 5 正确标签为 1 数据为 bush adam on troop to iraq
+第 118 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 bebe neuwirth get to wiggl again
+第 119 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 beckham to l a for the game not fame
+第 120 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 sleep more to fight childhood obes
+第 121 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 abba reject temporari state
+第 122 组数据，结果错误 预测标签为 6 正确标签为 2 数据为 investig of child porn site hit nation
+第 123 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 sleuth close in on odysseu home
+第 124 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 varieti johnni depp to make movi of spy poison
+第 125 组数据，结果错误 预测标签为 6 正确标签为 3 数据为 ic storm crippl central u s
+第 126 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 park star as unit maintain lead
+第 127 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 prehistor romeo and juliet discov
+第 128 组数据，结果错误 预测标签为 3 正确标签为 4 数据为 india s famou landmark get facelift
+第 129 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 joseph wambaugh s new start
+第 130 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 particip in water drink contest di
+第 131 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 appl drop bombshel with iphon
+第 132 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 bollywood s brangelina engag
+第 133 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 shiit fighter arrest in crackdown iraq sai
+第 134 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 rio de janeiro journal draw line across the sand between class
+第 135 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 model health guidelin will thei help
+第 136 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 step back in time at ski resort
+第 137 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 test cricket jail over kill
+第 138 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 walnut combat unhealthi fat
+第 139 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 appl to vista upgrad wait
+第 140 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 injur sarwan to miss on dayer
+第 141 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 firm on alert for letter bomb
+第 142 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 studio sign off on movi download
+第 143 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 asif return with four wicket haul
+第 144 组数据，结果错误 预测标签为 5 正确标签为 1 数据为 bush author iranian arrest in iraq rice sai
+第 145 组数据，结果错误 预测标签为 4 正确标签为 2 数据为 porn ring scandal reach australia
+第 146 组数据，结果错误 预测标签为 1 正确标签为 5 数据为 deputi health minist arrest in us iraqi raid
+第 147 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 senat carl krueger think ipod can kill you
+第 148 组数据，结果错误 预测标签为 3 正确标签为 4 数据为 final senat okai anti terror bill manila
+第 149 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 somalia declar state of emerg
+第 150 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 matt shine with hi alpin finish
+第 151 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 bp ceo brown to step down in june
+第 152 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 an iphon by ani other name sure not
+第 153 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 life in gaza steadili worsen
+第 154 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 the energi challeng exot vision how to cool a planet mayb
+第 155 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 easi wai to realli save
+第 156 组数据，结果错误 预测标签为 5 正确标签为 1 数据为 sharehold sue appl
+第 157 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 find can human surviv want to bet on it
+第 158 组数据，结果错误 预测标签为 6 正确标签为 3 数据为 iran step up product of weapon grade uranium
+第 159 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 rig threat cargo ship tow ashor
+第 160 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 palestinian sai clash hurt their caus
+第 161 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 male sweat can rais hormon
+第 162 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 vital sign hazard antidepress link to fractur in older peopl
+第 163 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 peron held over s right abus
+第 164 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 space life search turn to tv
+第 165 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 super bowl ad of cartoonish violenc perhap reflect toll of war
+第 166 组数据，结果错误 预测标签为 1 正确标签为 6 数据为 youtub told to drop celeb sex video
+第 167 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 beckham posh and more athlet celebr coupl
+第 168 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 citi set up ic storm shelter
+第 169 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 libbi prosecutor await judg s rule
+第 170 组数据，结果错误 预测标签为 6 正确标签为 5 数据为 review alpha dog miss the point
+第 171 组数据，结果错误 预测标签为 4 正确标签为 1 数据为 republican plan to block iraq debat
+第 172 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 mix reaction to china s africa push
+第 173 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 snow in the canadian rocki
+第 174 组数据，结果错误 预测标签为 2 正确标签为 6 数据为 skip the shower male sweat turn women on studi sai
+第 175 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 gentli weep lyric sheet up for sale
+第 176 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 canet win inaugur joburg open
+第 177 组数据，结果错误 预测标签为 1 正确标签为 4 数据为 right group halt violent nepal strike
+第 178 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 real suffer carlo injuri setback
+第 179 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 astronaut mai have buckl under stress
+第 180 组数据，结果正确 预测标签为 3 正确标签为 3 数据为 gunmen abduct filipino woman in nigeria
+第 181 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 nfl team s fan of the year flag ladi
+第 182 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 no reject polic state claim
+第 183 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 malaysian airasia x to fly in juli
+第 184 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 kidnap at nigeria oil base
+第 185 组数据，结果错误 预测标签为 3 正确标签为 6 数据为 gui sweat is babe magnet
+第 186 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 township tourism boom in south africa
+第 187 组数据，结果正确 预测标签为 6 正确标签为 6 数据为 alpha dog miss the point
+第 188 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 iran leader pai nicaragua a visit
+第 189 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 grei s pirat lead peopl s choic
+第 190 组数据，结果正确 预测标签为 3 正确标签为 3 数据为 terror network
+第 191 组数据，结果错误 预测标签为 6 正确标签为 5 数据为 now it s offici iraq s a mess
+第 192 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 snow bring travel miseri to england
+第 193 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 jame brown s year old son left out of will
+第 194 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 two men kill by london tube train
+第 195 组数据，结果错误 预测标签为 2 正确标签为 5 数据为 us million fail to bui influenc in deadli gaza power plai
+第 196 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 plo minist agre upon in mecca
+第 197 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 squadron apolog over friendli fire death
+第 198 组数据，结果正确 预测标签为 3 正确标签为 3 数据为 new orlean violenc spark tourism fear
+第 199 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 friendli fire pilot experienc
+第 200 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 space com black hole triplet spot
+第 201 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 vaccin mandat or choic
+第 202 组数据，结果错误 预测标签为 5 正确标签为 1 数据为 congoles soldier riot loot over pai issu
+第 203 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 commod lead europ higher
+第 204 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 ingredi in male sweat rais women s hormon level
+第 205 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 goetschl end austrian win drought
+第 206 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 doomsdai clock tick awai
+第 207 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 troop mass around somali town
+第 208 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 tariq ramadan ha an ident issu
+第 209 组数据，结果错误 预测标签为 4 正确标签为 1 数据为 peretz order idf to respond with forc to north border attack
+第 210 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 train crash near thai resort town
+第 211 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 hama fatah return to uniti gov t talk in mecca
+第 212 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 pat fourth quarter ralli finish charger
+第 213 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 die as us helicopt crash in iraq
+第 214 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 millionair secret santa di
+第 215 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 morrissei mai cheer up eurovis
+第 216 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 christian valu guid dungi and the colt
+第 217 组数据，结果错误 预测标签为 4 正确标签为 1 数据为 isra woman s tirad spur pm outrag
+第 218 组数据，结果错误 预测标签为 5 正确标签为 1 数据为 pass exchang becom polit flashpoint
+第 219 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 polic probe church fire half mile apart
+第 220 组数据，结果错误 预测标签为 5 正确标签为 1 数据为 itali to try us soldier for agent s iraq death
+第 221 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 depp to star in spy poison film
+第 222 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 s jack bauer return
+第 223 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 us airwai boost bid for delta
+第 224 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 even befor it releas world climat report is critic as too optimist
+第 225 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 second hang also went awri iraq tape show
+第 226 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 howel take on shot lead in soni open
+第 227 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 psych check review after astronaut s crack up
+第 228 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 pap test a mainstai against cervic cancer mai be fade
+第 229 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 martin lead newcastl fightback
+第 230 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 ps pricei but impress
+第 231 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 pluto s reveng word of the year award
+第 232 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 european space agenc
+第 233 组数据，结果错误 预测标签为 5 正确标签为 1 数据为 hacker strike at kei internet server
+第 234 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 hussein co defend execut
+第 235 组数据，结果正确 预测标签为 3 正确标签为 3 数据为 memo from frankfurt germani reliv s terror as seek releas from jail
+第 236 组数据，结果错误 预测标签为 3 正确标签为 4 数据为 bliss out in ojai
+第 237 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 houston she s got some problem
+第 238 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 amazon com ha best ever sale
+第 239 组数据，结果错误 预测标签为 3 正确标签为 1 数据为 hacker attack root server
+第 240 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 video game can improv your vision
+第 241 组数据，结果错误 预测标签为 3 正确标签为 6 数据为 internet attack did anyon notic
+第 242 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 in washington contractor take on biggest role ever
+第 243 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 flood forc malaysia evacu
+第 244 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 on myspac girl seek friend boi flirt
+第 245 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 test of drug to block h i v infect ar halt over safeti
+第 246 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 zoo polar bear to have root canal
+第 247 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 europ take big royal trophi lead
+第 248 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 israel to instal camera to show live mughrabi footag
+第 249 组数据，结果错误 预测标签为 6 正确标签为 5 数据为 we lit our last candl yesterdai
+第 250 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 googl bui youtub for bn
+第 251 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 psp number on soni platform in japan
+第 252 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 england includ gile in wc squad
+第 253 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 beckham won t plai again for real
+第 254 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 eight year for damilola killer
+第 255 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 pc world editor slain at california home
+第 256 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 hand on doomsdai clock move forward
+第 257 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 zach braff sai he ha mild depress
+第 258 组数据，结果错误 预测标签为 6 正确标签为 2 数据为 investig of child porn site hit nation usa todai
+第 259 组数据，结果正确 预测标签为 3 正确标签为 3 数据为 scienc panel call global warm unequivoc
+第 260 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 new babi panda babi panda babi panda
+第 261 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 get readi for the earn
+第 262 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 germani agon over a brain drain
+第 263 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 iran and nicaraguan leader meet
+第 264 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 secret hotel in irish countrysid
+第 265 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 fine wine in british columbia
+第 266 组数据，结果错误 预测标签为 6 正确标签为 4 数据为 philippin presid welcom senat approv of anti terror bill
+第 267 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 small jet crash on takeoff kill
+第 268 组数据，结果正确 预测标签为 3 正确标签为 3 数据为 bigger more aggress rat infest uk
+第 269 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 travel leisur next island hot spot st lucia
+第 270 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 real mallorca rock leader sevilla
+第 271 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 iran s boast on uranium enrich is put to test
+第 272 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 person health for teenag the car is the danger zone
+第 273 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 bird watcher flock to see rare owl
+第 274 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 ey on cosmo is lost to short circuit on hubbl
+第 275 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 too young for thi face cancer under
+第 276 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 unilev group name new chairman
+第 277 组数据，结果错误 预测标签为 4 正确标签为 1 数据为 minist slam airlin on carbon
+第 278 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 rare optim as north korea talk reach crossroad
+第 279 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 man behead in southern thailand
+第 280 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 china s nightmar scenario
+第 281 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 annual dive contest in south korea prove a chilli challeng
+第 282 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 blair sai he regret delai in british soldier s inquest
+第 283 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 iraqi forc detain offici suspect in shia conspiraci
+第 284 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 wellcom award anti fat research
+第 285 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 finger cross for north korea
+第 286 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 no intent of war with iran us sai
+第 287 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 what newsom face in aftermath of scandal
+第 288 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 maggi gyllenha s globe babysitt mom
+第 289 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 as inflat soar zimbabw economi plung
+第 290 组数据，结果错误 预测标签为 4 正确标签为 2 数据为 pledg i wa abus in frat haze
+第 291 组数据，结果正确 预测标签为 3 正确标签为 3 数据为 expert fear like shackl boi
+第 292 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 what s behind the chopper crash in iraq
+第 293 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 freed muslim terror suspect sai britain is polic state
+第 294 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 blair apologis over friendli fire inquest
+第 295 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 depp to make litvinenko movi
+第 296 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 why ga follow oil up but not down
+第 297 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 crave still there sez tara
+第 298 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 bill would strip convict legisl of pension
+第 299 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 bear watch as lead slip awai
+第 300 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 in clue to addict brain injuri halt smoke
+第 301 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 in rigor test talk therapi work for panic disord
+第 302 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 rice u s won t pull plug on iraq
+第 303 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 on road to kosovo independ a warn go slow
+第 304 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 mistrial for offic who refus to go to iraq
+第 305 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 rebel to join nepal parliament
+第 306 组数据，结果错误 预测标签为 2 正确标签为 3 数据为 emi warn on profit boss goe
+第 307 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 subwai collaps caught on camera
+第 308 组数据，结果错误 预测标签为 3 正确标签为 6 数据为 stinki but true men s sweat is made for love
+第 309 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 polit us repriev for offic who denounc immor war
+第 310 组数据，结果错误 预测标签为 6 正确标签为 5 数据为 hunter stalk world s tallest tree
+第 311 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 fuel spill mai lead to miss jet
+第 312 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 sri lanka flood displac
+第 313 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 justin timberlak cameron diaz announc split
+第 314 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 iran to hit us interest if attack
+第 315 组数据，结果错误 预测标签为 1 正确标签为 4 数据为 israel sai hope to keep lebanon border calm
+第 316 组数据，结果错误 预测标签为 5 正确标签为 1 数据为 cisco sue appl over iphon name
+第 317 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 two palestinian kill near fenc
+第 318 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 earthlink ceo di at ag
+第 319 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 a star di a famili feud is born
+第 320 组数据，结果错误 预测标签为 5 正确标签为 1 数据为 carter wa a disast said ford
+第 321 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 super bowl mvp man insist he s on of the gui
+第 322 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 person health the import of know what the doctor is talk about
+第 323 组数据，结果错误 预测标签为 6 正确标签为 1 数据为 israel s peretz urg halt to contenti jerusalem construct
+第 324 组数据，结果错误 预测标签为 4 正确标签为 1 数据为 peter jackson will never work for me again
+第 325 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 u s keep iran option open
+第 326 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 european share hit fresh high
+第 327 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 for women noth s like the smell of men s sweat
+第 328 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 look beyond the iphon
+第 329 组数据，结果正确 预测标签为 3 正确标签为 3 数据为 freed kidnap suspect my terror at polic raid
+第 330 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 far awai super bowl s loser will be champ
+第 331 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 woman di after water bing
+第 332 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 mancuso spark u s celebr
+第 333 组数据，结果错误 预测标签为 6 正确标签为 3 数据为 asean urg north korea resolut
+第 334 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 late penalti cost roma the point
+第 335 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 mistrial declar in teacher student rape case
+第 336 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 bookworm adventur wordsmith s joi
+第 337 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 kyli s love split
+第 338 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 ipod good for video game
+第 339 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 review virtual american idol hit right note
+第 340 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 leo battl himself
+第 341 组数据，结果错误 预测标签为 4 正确标签为 1 数据为 attornei point finger in fight between ryan o neal and son
+第 342 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 john grisham set for court drama
+第 343 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 bill gate and craig mundi vista is secur employe ar not
+第 344 组数据，结果错误 预测标签为 3 正确标签为 1 数据为 iraqi fault delai u s plan in attack
+第 345 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 boi scout blame for start wildfir
+第 346 组数据，结果错误 预测标签为 6 正确标签为 3 数据为 china urg un action on n korea
+第 347 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 scorpion on a plane a pant of pain
+第 348 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 male sweat boost women s hormon level
+第 349 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 mbeki on the big visit from the chines
+第 350 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 french right nomin sarkozi
+第 351 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 isra lebanes clash on border
+第 352 组数据，结果正确 预测标签为 3 正确标签为 3 数据为 north korea claim nuclear test
+第 353 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 talk begin on somalia peacekeep
+第 354 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 action game improv eyesight
+第 355 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 a small part of the brain and it profound effect
+第 356 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 idf shell lebanes armi posit across northern border
+第 357 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 thailand miss year after take wrong bu
+第 358 组数据，结果错误 预测标签为 5 正确标签为 1 数据为 ballerina spark anti fascist row
+第 359 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 internet boom in china is built on virtual fun
+第 360 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 review ps pricei but impress
+第 361 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 machineri order drive asia upward
+第 362 组数据，结果错误 预测标签为 4 正确标签为 2 数据为 lost s fox i m a liar and a cheat
+第 363 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 russia to strengthen it militari muscl
+第 364 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 at libbi trial russert of nbc give and get
+第 365 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 north korea readi to discuss first step to nuclear resolut
+第 366 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 victim gunman bought drink after shoot
+第 367 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 ferrer victori in spanish duel
+第 368 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 uk worker on alert for letter bomb
+第 369 组数据，结果正确 预测标签为 6 正确标签为 6 数据为 did nasa accident kill life on mar
+第 370 组数据，结果错误 预测标签为 3 正确标签为 4 数据为 new vaccin for cervic cancer could prove us in men too
+第 371 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 search on for victim of subwai collaps
+第 372 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 human error caus helio crash
+第 373 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 us to prod nato alli for more troop to defeat taliban
+第 374 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 microsoft support openid authent standard
+第 375 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 no buyer in sight for napster
+第 376 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 briefli preload ipod wal mart movi appl store
+第 377 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 china sai rich countri should take lead on global warm
+第 378 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 north korea mai begin to dismantl nuke
+第 379 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 track down hi tech crime
+第 380 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 barack obama formal announc bid for presid
+第 381 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 kidnapp seiz two in nigeria
+第 382 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 indonesia mai sell not give bird flu viru to scientist
+第 383 组数据，结果错误 预测标签为 3 正确标签为 5 数据为 attack video sadden friendli fire widow
+第 384 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 europ retain trophi with big win
+第 385 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 cut edg accessori for digit music player
+第 386 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 ic storm descend on central u s
+第 387 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 snow bring travel miseri to england
+第 388 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 indonesia flood forc from home
+第 389 组数据，结果错误 预测标签为 3 正确标签为 6 数据为 iraqi health minist seiz in raid
+第 390 组数据，结果正确 预测标签为 3 正确标签为 3 数据为 ic storm bring chao in u s
+第 391 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 stinki flower mysteri solv
+第 392 组数据，结果错误 预测标签为 5 正确标签为 1 数据为 congressman rebuk u s alli for lack of support in afghanistan
+第 393 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 roddick overcom feder in final
+第 394 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 prehistor romeo and juliet discov
+第 395 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 donald and goydo share soni lead
+第 396 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 u s and iraqi ar wrangl over war plan
+第 397 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 sea search for miss microsoft scientist
+第 398 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 iran to hit us interest if attack
+第 399 组数据，结果正确 预测标签为 3 正确标签为 3 数据为 blair terror battl will be long
+第 400 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 bear cub return to the wilder
+第 401 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 carrefour sale growth fall short
+第 402 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 alli with democrat lieberman easili align with republican
+第 403 组数据，结果错误 预测标签为 6 正确标签为 5 数据为 in the rocki pine die and bear feel it
+第 404 组数据，结果错误 预测标签为 1 正确标签为 3 数据为 iran to strike us interest if attack
+第 405 组数据，结果错误 预测标签为 4 正确标签为 2 数据为 nippl cover other star secret
+第 406 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 appl no itun for you if you have vista
+第 407 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 smokestack in a white wilder divid iceland
+第 408 组数据，结果错误 预测标签为 5 正确标签为 1 数据为 that ll cost ya
+第 409 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 botch hang in iraq speed sectarian
+第 410 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 male sweat rais femal hormon
+第 411 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 gop senat to forc debat on troop in iraq
+第 412 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 bangladesh end curfew amid unrest
+第 413 组数据，结果错误 预测标签为 5 正确标签为 1 数据为 itali s disput with us over iraq shoot
+第 414 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 here come the globe
+第 415 组数据，结果错误 预测标签为 3 正确标签为 5 数据为 snow caus transport chao in britain
+第 416 组数据，结果错误 预测标签为 3 正确标签为 5 数据为 snow caus airport closur in britain
+第 417 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 second opinion girl or boi as fertil technolog advanc so doe an ethic debat
+第 418 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 heavi snow caus travel chao and shut school
+第 419 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 barbaro s legaci save other hors
+第 420 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 luxuri dig in south carolina s lowcountri
+第 421 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 dozen kill in baghdad bomb
+第 422 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 ic storm kill across nation
+第 423 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 de villier take over dakar lead
+第 424 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 vietnam becom wto s th member
+第 425 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 south african trio share advantag
+第 426 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 observatori poison beget poison
+第 427 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 action intens boost vision
+第 428 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 why the smell of a man s armpit is a turn on
+第 429 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 nokia xpress music
+第 430 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 dell to cut bonus trim manag
+第 431 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 second drop in cancer death could point to a trend research sai
+第 432 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 tv game show go interact
+第 433 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 boi miss sinc found aliv
+第 434 组数据，结果错误 预测标签为 1 正确标签为 4 数据为 us north korea sign nuclear memo
+第 435 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 russia honor sputnik design
+第 436 组数据，结果正确 预测标签为 3 正确标签为 3 数据为 in kenya s capit a sens that danger is ever stronger
+第 437 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 bill thank for the rsa memori and laugh
+第 438 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 friendli fire pilot experienc
+第 439 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 myspac welcom french friend
+第 440 组数据，结果正确 预测标签为 3 正确标签为 3 数据为 airlin uk airport runwai unsaf
+第 441 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 the amount you have to pai for a bomb scare
+第 442 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 in egypt rice speak softli
+第 443 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 weekli nielsen yvonn de carlo munster star dead
+第 444 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 senat vote to revok pension
+第 445 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 earthlink ceo di at ag
+第 446 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 softwar giant sap miss target
+第 447 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 vital sign mental abil folic acid mai improv think skill
+第 448 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 de villier stretch overal lead
+第 449 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 famili celebr return of son
+第 450 组数据，结果错误 预测标签为 6 正确标签为 3 数据为 china detain after bodi part found in mail
+第 451 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 north korea readi to discuss nuke disarma
+第 452 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 for women noth s like the smell of men s sweat
+第 453 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 nadal want australian open crown
+第 454 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 beij journal olymp construct unearth ancient treasur trove
+第 455 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 chines presid arriv in mozambiqu african tour nearli over
+第 456 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 reclus mockingbird author attend show
+第 457 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 asia near pact on energi secur
+第 458 组数据，结果正确 预测标签为 3 正确标签为 3 数据为 philippin anti terror law delai until june
+第 459 组数据，结果错误 预测标签为 3 正确标签为 1 数据为 ex suspect slam anti terror law
+第 460 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 studi detect a gene link to alzheim s
+第 461 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 panda cub make her debut
+第 462 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 harri haul put south africa on top
+第 463 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 weight loss drug to be sold over the counter
+第 464 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 beckham outlin reason for move
+第 465 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 studi find gritti air rais heart diseas risk in older women
+第 466 组数据，结果错误 预测标签为 5 正确标签为 1 数据为 venezuela iran fight u s domin
+第 467 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 housew star marcia cross on bed rest
+第 468 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 blog here come the globe
+第 469 组数据，结果错误 预测标签为 3 正确标签为 1 数据为 greek polic hunt embassi attack
+第 470 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 appl warn itun user to wait on vista
+第 471 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 tsunami fear eas after quak
+第 472 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 china consid eurobond reserv
+第 473 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 underarm bowl them over
+第 474 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 at least die as blast level baghdad market
+第 475 组数据，结果错误 预测标签为 4 正确标签为 1 数据为 new mccain team made attack ad he onc fault
+第 476 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 death as bird flu flare in asia
+第 477 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 hama fatah leader pledg to meet until thei reach agreement
+第 478 组数据，结果错误 预测标签为 4 正确标签为 2 数据为 offic had rapport with alleg abductor
+第 479 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 no e book for harri potter vii
+第 480 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 review nokia xpress music
+第 481 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 can t do thi anymor not jack
+第 482 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 black hole triplet spot
+第 483 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 israel weigh old citi project webcast
+第 484 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 indonesian bird flu death hit
+第 485 组数据，结果错误 预测标签为 3 正确标签为 5 数据为 somali refuge cut off from aid
+第 486 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 microsoft downplai vista speech recognit hack
+第 487 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 next island hot spot st lucia
+第 488 组数据，结果错误 预测标签为 5 正确标签为 1 数据为 itali to hold no show trial of bronx gi in iraq slai
+第 489 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 rescu boi parent hail miracl
+第 490 组数据，结果正确 预测标签为 2 正确标签为 2 数据为 canadian track in child porn ring
+第 491 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 teen hack venezuelan govern web site
+第 492 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 russia plan new icbm nuclear sub
+第 493 组数据，结果错误 预测标签为 2 正确标签为 4 数据为 gere cheer sex worker in aid fight
+第 494 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 studi male sweat caus femal hormon to rise
+第 495 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 collis on ici road kill
+第 496 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 surpris china cut price of ga
+第 497 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 what the godfath of soul meant to me
+第 498 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 new mar orbit spot pathfind land site
+第 499 组数据，结果错误 预测标签为 5 正确标签为 1 数据为 mass venezuela opposit ralli
+第 500 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 glamour and borat at golden globe
+第 501 组数据，结果正确 预测标签为 3 正确标签为 3 数据为 terror offici see al qaeda chief regain power
+第 502 组数据，结果错误 预测标签为 3 正确标签为 6 数据为 ivrea journal in italian town a civic lesson from pelt neighbor
+第 503 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 iraqi sunni land show new oil and ga promis
+第 504 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 princess and heir of franz ferdinand fight to repeal a law and gain a castl
+第 505 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 a film star in kampala conjur amino ghost
+第 506 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 milit attack u s base in iraq
+第 507 组数据，结果正确 预测标签为 3 正确标签为 3 数据为 north africa fear as stage ground for terror
+第 508 组数据，结果正确 预测标签为 3 正确标签为 3 数据为 iran sai sunni us pakistan as base plan fatal bomb
+第 509 组数据，结果错误 预测标签为 2 正确标签为 1 数据为 anglican rebuk u s branch on same sex union
+第 510 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 homemad bomb kill on indian train
+第 511 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 al qaeda chief ar seen to regain power
+第 512 组数据，结果错误 预测标签为 4 正确标签为 1 数据为 chvez threaten to jail violat of price control
+第 513 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 bush declar iran s arm role in iraq is certain
+第 514 组数据，结果错误 预测标签为 3 正确标签为 4 数据为 accord on north korea is announc
+第 515 组数据，结果错误 预测标签为 6 正确标签为 3 数据为 u s sai power iraqi cleric is live in iran
+第 516 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 baghdad plan is a success iraq prime minist tell bush
+第 517 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 iraqi sunni land show new oil and ga promis
+第 518 组数据，结果错误 预测标签为 5 正确标签为 1 数据为 disput over iraqi cleric said to have gone to iran
+第 519 组数据，结果正确 预测标签为 3 正确标签为 3 数据为 plan seen in iraqi attack on u s copter
+第 520 组数据，结果错误 预测标签为 6 正确标签为 5 数据为 in the world of life save drug a grow epidem of deadli fake
+第 521 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 basic a mammal in winter with a furnac of her own
+第 522 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 book on scienc the problem in model natur with it unruli natur tendenc
+第 523 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 believ scriptur but plai by scienc s rule
+第 524 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 a familiar and prescient voic brought to life
+第 525 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 find a cool million for a climat backup plan
+第 526 组数据，结果错误 预测标签为 6 正确标签为 4 数据为 call it serendip a miss piec of washington s war tent is found
+第 527 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 free will now you have it now you don t
+第 528 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 archaeologist find sign of earli chimp tool us
+第 529 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 wizardri at harvard physicist move light
+第 530 组数据，结果错误 预测标签为 4 正确标签为 2 数据为 the summit a slap in the face of the palestinian
+第 531 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 moscow sai palestin isra contact kei to mideast peac
+第 532 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 mideast summit edn with littl progress
+第 533 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 india decri an act of sabotag
+第 534 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 pakistan india peac talk plan despit bomb
+第 535 组数据，结果正确 预测标签为 3 正确标签为 3 数据为 czech pole get missil warn
+第 536 组数据，结果错误 预测标签为 1 正确标签为 3 数据为 russia warn us against missil base in east europ
+第 537 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 chenei start visit to japan australia
+第 538 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 china chenei shore up the trilater allianc
+第 539 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 iraq insurg attack us base
+第 540 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 us soldier die in dai of violenc
+第 541 组数据，结果错误 预测标签为 3 正确标签为 5 数据为 iraqi suicid attack kill two us troop as milit fight purg
+第 542 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 iran reneg on nuclear payment to russia
+第 543 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 top colombia offici resign
+第 544 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 colombia fm resign after rel arrest for militia link
+第 545 组数据，结果错误 预测标签为 5 正确标签为 2 数据为 foreign minist of colombia quit in scandal
+第 546 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 new zealand unlik to allow crippl japanes whaler
+第 547 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 damag japanes whale ship mai resum hunt off antarctica
+第 548 组数据，结果错误 预测标签为 5 正确标签为 2 数据为 japanes whale ship won t accept help
+第 549 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 iran top n envoi head for vienna for nuke talk
+第 550 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 victim of air india still wait for justic
+第 551 组数据，结果错误 预测标签为 5 正确标签为 2 数据为 kanishka bomb case inquiri judg threaten to quit
+第 552 组数据，结果错误 预测标签为 4 正确标签为 1 数据为 judg threaten to shut down air india inquiri
+第 553 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 royal rescu presidenti hope with command perform
+第 554 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 royal seek to reviv french bid
+第 555 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 sarkozi comfort zone offer a royal opportun
+第 556 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 hick first in line for trial bush sai
+第 557 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 australia tell bush to speed up guantanamo trial
+第 558 组数据，结果正确 预测标签为 3 正确标签为 3 数据为 howard press bush on terror suspect
+第 559 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 franc end toxic alert at canadian embassi in pari
+第 560 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 pari polic investig packag at canadian embassi
+第 561 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 fals alarm at canadian embassi in pari
+第 562 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 afghan forc retak town that wa overrun by taliban
+第 563 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 taliban seiz rural district in southwest as polic flee
+第 564 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 afghan poppi war alien farmer
+第 565 组数据，结果错误 预测标签为 1 正确标签为 4 数据为 will north korea honor pledg thi time
+第 566 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 kim jong il ban japanes car in north korea
+第 567 组数据，结果错误 预测标签为 6 正确标签为 1 数据为 iran vs north korea not all enemi ar equal
+第 568 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 cathol archbishop outlin anglican merger hope
+第 569 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 anglican and cathol church could merg
+第 570 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 us helicopt crash kill troop in afghanistan
+第 571 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 eight us soldier kill in zabul helicopt crash
+第 572 组数据，结果错误 预测标签为 3 正确标签为 4 数据为 arroyo laud passag of anti terror bill
+第 573 组数据，结果错误 预测标签为 3 正确标签为 4 数据为 hous pass anti terror measur manila
+第 574 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 livingston s transport empir mai extend
+第 575 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 london is pace setter on congest toll sai mayor
+第 576 组数据，结果错误 预测标签为 5 正确标签为 1 数据为 protest greet congest charg s westward push
+第 577 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 thailand attack kill three injur
+第 578 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 thai govt move to smooth over relat with south
+第 579 组数据，结果正确 预测标签为 3 正确标签为 3 数据为 bomb sai muslim rebel won t negoti
+第 580 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 root of autism more complex than thought
+第 581 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 largest ever autism studi identifi two genet culprit
+第 582 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 canadian breakthrough offer hope on autism
+第 583 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 bewar of peanut butter pathogen
+第 584 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 expert offer advic on salmonella
+第 585 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 expert issu new heart diseas guidelin for women
+第 586 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 for women aspirin a dai could keep stroke awai
+第 587 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 high cholesterol rais stroke risk healthi women
+第 588 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 cook chicken breast join taint food recal
+第 589 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 readi to eat chicken breast recal due to suspect listeria
+第 590 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 fulli cook chicken strip recal
+第 591 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 committe debat cancer vaccin plan
+第 592 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 stop cancer with a shot
+第 593 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 mln bird to be vaccin from bird flu near moscow
+第 594 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 thousand test after russian h n outbreak
+第 595 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 russian bird flu outbreak is deadli asian strain
+第 596 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 bernard matthew to lai off up to worker
+第 597 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 matthew lai off turkei worker
+第 598 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 reopen bird flu hitfactori ignor risk poultryman
+第 599 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 goodby to girlhood
+第 600 组数据，结果错误 预测标签为 5 正确标签为 1 数据为 media cite for show girl as sex object
+第 601 组数据，结果错误 预测标签为 5 正确标签为 1 数据为 sexualis harm young girl
+第 602 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 a shot in the arm
+第 603 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 thousand line up to get late flu shot
+第 604 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 king counti offer some free flu vaccin
+第 605 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 bush vow cooper on health care
+第 606 组数据，结果错误 预测标签为 3 正确标签为 4 数据为 health return as hot issu in race
+第 607 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 small busi owner find bush health plan appeal
+第 608 组数据，结果正确 预测标签为 3 正确标签为 3 数据为 pediatrician sai more cord blood is need now
+第 609 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 whether to save cord blood can be puzzl for parent
+第 610 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 retin implant help blind peopl see again
+第 611 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 indonesia will not share flu sampl
+第 612 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 health canada issu advic on can tuna
+第 613 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 cholesterol link in diabet studi
+第 614 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 pig cell hope for diabet cure
+第 615 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 sick heart switch on a fetal gene
+第 616 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 foetal mechan help heart failur
+第 617 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 plan cesarean not risk free group warn
+第 618 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 scientist tout cocoa s health benefit
+第 619 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 feed your brain new benefit found in chocol
+第 620 组数据，结果错误 预测标签为 6 正确标签为 4 数据为 some cocoa mai improv brain blood flow
+第 621 组数据，结果错误 预测标签为 4 正确标签为 1 数据为 lawyer for deceas nazi era collabor papon vow to buri him
+第 622 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 cocoa could be antidot to ag relat diseas sai new studi
+第 623 组数据，结果正确 预测标签为 6 正确标签为 6 数据为 china deni report of north korean apolog
+第 624 组数据，结果错误 预测标签为 2 正确标签为 1 数据为 hungarian opposit call for vote after violenc escal
+第 625 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 au regret sudan s expuls of un envoi
+第 626 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 bush offici no big move in iraq plan
+第 627 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 oppon is put on the spot over remark about clinton
+第 628 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 hous ethic panel talk to hastert aid
+第 629 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 bellsouth sai profit rise on cingular earn
+第 630 组数据，结果错误 预测标签为 3 正确标签为 5 数据为 enron boss get year sentenc
+第 631 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 soni apolog for batteri recal
+第 632 组数据，结果错误 预测标签为 6 正确标签为 4 数据为 googl unveil do it yourself search engin
+第 633 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 firefox hit the web
+第 634 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 oracl world open with dell unveil amd power comput
+第 635 组数据，结果错误 预测标签为 3 正确标签为 5 数据为 seahawk qb hasselbeck out week
+第 636 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 marathon winner releas from hospit
+第 637 组数据，结果错误 预测标签为 4 正确标签为 1 数据为 punter charg with stab ask to live outsid state
+第 638 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 allmending join toyota team in nascar
+第 639 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 try to assess the damag in cleveland
+第 640 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 bryant s boot mai have salvag buc season
+第 641 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 thi week in auto race octob octob
+第 642 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 merriman violat stun ex teammat
+第 643 组数据，结果错误 预测标签为 4 正确标签为 1 数据为 bruce revel in upset
+第 644 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 steeler roethlisberg ha concuss
+第 645 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 arthur upset robredo in first round at the st petersburg open
+第 646 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 mbeki world cup plan on track
+第 647 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 clinic everton show moy mean busi
+第 648 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 ms add offic to vista coupon program
+第 649 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 on search doe not fit all
+第 650 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 appl s dark secret the claim
+第 651 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 bad weather cancel men s downhil
+第 652 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 cool million for youtub founder
+第 653 组数据，结果错误 预测标签为 3 正确标签为 4 数据为 london market a shop dine haven
+第 654 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 jackass star marri childhood friend the secret peopl reveal
+第 655 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 audio slide show a love stori last year
+第 656 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 microsoft to releas next gener phone
+第 657 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 bodi shop s roddick ha hepat c
+第 658 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 teen allegedli arm by mom turn self in
+第 659 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 oxfam action need for chad
+第 660 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 violenc continu at disput holi site
+第 661 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 storm leav behind major travel troubl
+第 662 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 u s troop kill hunt weapon cach
+第 663 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 china s friend highlight web freedom
+第 664 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 nato afghanistan peac by
+第 665 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 alaska s northern light captiv japanes
+第 666 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 smith can t be buri until hear
+第 667 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 spacewalk set new u s record
+第 668 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 fortun india the superpow think again
+第 669 组数据，结果错误 预测标签为 4 正确标签为 1 数据为 kerri blast escal of misguid war
+第 670 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 anna nicol claimant a princ of a gui
+第 671 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 ronni and eto o hug and make up
+第 672 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 best of the chicago auto show
+第 673 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 grei s betti scrub get boost
+第 674 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 massiv mud trap dozen of famili
+第 675 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 edward blogger quit becom journalist martyr
+第 676 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 town pack gym to mourn kill in fire
+第 677 组数据，结果错误 预测标签为 3 正确标签为 4 数据为 spain ahead although nadal is out
+第 678 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 ecb hold rate at percent
+第 679 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 iran reject us claim of suppli weapon in iraq
+第 680 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 jakarta begin disinfect
+第 681 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 rowl heartbroken euphor at potter s end
+第 682 组数据，结果错误 预测标签为 4 正确标签为 2 数据为 appl rev up mac attack on vista
+第 683 组数据，结果正确 预测标签为 3 正确标签为 3 数据为 fear hinder black marrow donat
+第 684 组数据，结果错误 预测标签为 3 正确标签为 1 数据为 texan allegedli join somalia rebel plot
+第 685 组数据，结果错误 预测标签为 3 正确标签为 4 数据为 u s to allow iraqi refuge
+第 686 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 japan whale activist terrorist
+第 687 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 hannib bite the big on
+第 688 组数据，结果错误 预测标签为 4 正确标签为 1 数据为 women protest pakistan demolit
+第 689 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 wii new for gamer
+第 690 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 democrat look beyond symbol vote on iraq
+第 691 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 portug to vote on abort law
+第 692 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 frustrat rise as north korea nuclear talk stall
+第 693 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 hors teeth give detail of ancient big chill
+第 694 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 scam lure victim with free puppi offer
+第 695 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 two korea to resum talk
+第 696 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 mickelson drive forc at master
+第 697 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 england opt for bopara over loy
+第 698 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 creat own thrillvil for a wild ride
+第 699 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 edward campaign blogger quit amid cathol controversi
+第 700 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 judg preserv anna nicol s bodi
+第 701 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 dolphin sea lion mai report for duti soon
+第 702 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 nasdaq lse battl near deadlin
+第 703 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 a person plea for hpv vaccin plan
+第 704 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 u s open door for iraqi refuge
+第 705 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 swiss plane crash at moscow airport
+第 706 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 studi nap might help heart
+第 707 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 myspac sale surg
+第 708 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 telecom giant slash job
+第 709 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 air franc klm profit rise
+第 710 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 uganda parliament vote to send troop to somalia
+第 711 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 king and queen reign at british film award
+第 712 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 murphi rule box offic with norbit
+第 713 组数据，结果正确 预测标签为 3 正确标签为 3 数据为 thousand ralli in lebanon
+第 714 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 yahoo s mission quest
+第 715 组数据，结果错误 预测标签为 3 正确标签为 4 数据为 area should get inch of snow todai
+第 716 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 miss brazil win lawsuit competit
+第 717 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 snow wreak havoc in east midwest
+第 718 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 the secret peopl reveal
+第 719 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 research support medicin marijuana
+第 720 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 all african ampute footbal game kick off
+第 721 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 group video show chopper go down
+第 722 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 sale of chrysler possibl
+第 723 组数据，结果错误 预测标签为 2 正确标签为 5 数据为 russia condemn terrorist act on buse outsid beirut
+第 724 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 technolog mai save india s river dolphin
+第 725 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 airbu a superjumbo take off
+第 726 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 nap ar great for chap
+第 727 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 femal astronaut set record
+第 728 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 corn stove pop up in u s home
+第 729 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 iraq close border with syria and iran
+第 730 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 the troubl end of the depart
+第 731 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 vietnames bank plan ipo list
+第 732 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 toyota s scion park in second life
+第 733 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 obama will run in
+第 734 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 cagnei lacei final come to dvd
+第 735 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 merkel stop iran
+第 736 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 salt lake citi mall shooter wa teenag
+第 737 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 femal astronaut set record
+第 738 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 oil hold at
+第 739 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 obama announc presidenti bid
+第 740 组数据，结果错误 预测标签为 6 正确标签为 4 数据为 tell your boss nap ar good for you
+第 741 组数据，结果错误 预测标签为 5 正确标签为 1 数据为 serbia reject unit nation s kosovo plan
+第 742 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 amish discuss shoot
+第 743 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 jail me i at ivori coast chocol
+第 744 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 can north korea be trust
+第 745 组数据，结果错误 预测标签为 3 正确标签为 5 数据为 tourism lag in bush s hometown
+第 746 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 astronaut s arrest test nasa s mettl
+第 747 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 man get second chanc at space ride
+第 748 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 go ahead take a nap scienc sai
+第 749 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 weekli nielsen will lost find it wai back
+第 750 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 brith airwai baggag charg caus confus
+第 751 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 indonesian with bird flu di
+第 752 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 st loui pois for entertain upsw
+第 753 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 new york citi mai ban ipod while cross street
+第 754 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 boi allegedli told to kill by mom give up
+第 755 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 grai wolv off endang list
+第 756 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 vista s hype secur will be test
+第 757 组数据，结果正确 预测标签为 3 正确标签为 3 数据为 uk polic slam over terror raid
+第 758 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 mogadishu resid flee blast
+第 759 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 bomb kill on militari bu in iran
+第 760 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 wariowar wii make perfect fit
+第 761 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 u s at odd with cleric s aid
+第 762 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 desper iraqi mother reli on militia for help
+第 763 组数据，结果正确 预测标签为 6 正确标签为 6 数据为 full detail of the eu report on iran
+第 764 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 singer on cowel glad he wa mean
+第 765 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 jone face europ meet snub
+第 766 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 beckham goal help real snatch win
+第 767 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 guinea plan offic close as countri declar emerg
+第 768 组数据，结果错误 预测标签为 3 正确标签为 4 数据为 japan s economi grow
+第 769 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 unit nation peacekeep raid haitian slum
+第 770 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 work start on arctic seed vault
+第 771 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 social network goe mobil
+第 772 组数据，结果错误 预测标签为 3 正确标签为 4 数据为 beautician cut curl offer stroke prevent info
+第 773 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 siesta cut risk of heart diseas death studi find
+第 774 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 thoma cook to merg with mytravel
+第 775 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 nap your wai to a success career
+第 776 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 villag buri by inch of snow
+第 777 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 oprah announc new book club pick
+第 778 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 the scienc of love and lust
+第 779 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 northeast cancel flight shut school
+第 780 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 nap mai be good for your heart
+第 781 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 ryan o neal injur son s girlfriend
+第 782 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 chrysler s valentin s dai massacr
+第 783 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 madrid bomb trial begin
+第 784 组数据，结果错误 预测标签为 5 正确标签为 2 数据为 fight start over hpv vaccin
+第 785 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 auto drive european gain
+第 786 组数据，结果错误 预测标签为 3 正确标签为 4 数据为 jame brown s partner can get her thing
+第 787 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 auto show cancel
+第 788 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 uk luxuri maker burberri made in china
+第 789 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 on the job nap might cut heart risk
+第 790 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 no florida surviv rupp arena streak hit
+第 791 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 j k rowl mark spot of potter s end
+第 792 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 gronholm take a command lead
+第 793 组数据，结果错误 预测标签为 4 正确标签为 1 数据为 howard slam obama on iraq polici
+第 794 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 manila hint at ransom approv
+第 795 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 champion murrai too good for kim
+第 796 组数据，结果错误 预测标签为 3 正确标签为 5 数据为 g yen skate by yuan singl out
+第 797 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 gunman wa srebrenica survivor
+第 798 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 cut through the clutter to get thing done
+第 799 组数据，结果错误 预测标签为 3 正确标签为 4 数据为 mother lohan is do great in rehab
+第 800 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 who s go to win at the grammi
+第 801 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 libbi defens upset judg rest
+第 802 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 breakup ring find new home
+第 803 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 gronholm ahead as solberg crash
+第 804 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 norbit a wast of murphi
+第 805 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 rocki start for bangkok airport
+第 806 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 dead in lebanes minibu bomb
+第 807 组数据，结果错误 预测标签为 4 正确标签为 2 数据为 sex tortur claim hit russia armi
+第 808 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 mega marsupi onc roam australia
+第 809 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 rupert murdoch s secret tivo
+第 810 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 updat plane crash at moscow airport no passeng
+第 811 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 hpv vaccin stir heat debat in america
+第 812 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 court tv accus killer tell juri a love stori
+第 813 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 whistl blow web site expos
+第 814 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 start late retir rich
+第 815 组数据，结果错误 预测标签为 4 正确标签为 1 数据为 somali pm vow to bring islamist to justic
+第 816 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 swinger more common than most think
+第 817 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 anna nicol smith fan mourn in cyberspac
+第 818 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 antibiot ketek more danger than thought
+第 819 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 time to book your cruis
+第 820 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 blaze angel for ps fail to soar
+第 821 组数据，结果错误 预测标签为 3 正确标签为 5 数据为 north korea aid demand stall talk
+第 822 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 cartoon network head step down
+第 823 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 malaysia aggress woo tourist
+第 824 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 anna nicol smith s bahama home seiz
+第 825 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 andromeda involv in galact collis
+第 826 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 rwanda mull kid limit for famili
+第 827 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 wilkinson set record in tame win
+第 828 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 armi engin sai dam safe
+第 829 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 franc al qaeda suspect arrest
+第 830 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 utah gunman surviv srebrenica
+第 831 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 creat a whole album in a month
+第 832 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 india to test new nuclear missil
+第 833 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 g to china eas exchang rate grip
+第 834 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 hatton hand back ibf titl again
+第 835 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 bernank economi healthi but
+第 836 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 mickelson sutherland share lead
+第 837 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 nap is good for your heart studi find
+第 838 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 princess masako author no regret
+第 839 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 student us im lingo in essai
+第 840 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 malaysia launch tourism campaign
+第 841 组数据，结果错误 预测标签为 3 正确标签为 5 数据为 studi africa s internet gap get wider
+第 842 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 travel chao as heavi snow hit uk
+第 843 组数据，结果正确 预测标签为 6 正确标签为 6 数据为 paula abdul i have never been drunk
+第 844 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 salmonella outbreak trace to peanut butter
+第 845 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 putin u s forc foster nuke ambit
+第 846 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 nuke detector to ring new york offici sai
+第 847 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 doubl bu bomb kill three in lebanon
+第 848 组数据，结果错误 预测标签为 3 正确标签为 6 数据为 davydenko out as seed scatter
+第 849 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 obama i m run for presid
+第 850 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 paterson boot scotland to victori
+第 851 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 african american ar organ donor these dai but what about bone marrow
+第 852 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 studi on the job nap might help heart
+第 853 组数据，结果正确 预测标签为 3 正确标签为 3 数据为 guinea capit larg calm under curfew marit law
+第 854 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 boss sleep on idea of let worker take nap
+第 855 组数据，结果错误 预测标签为 5 正确标签为 2 数据为 teacher s porn convict spark tech debat
+第 856 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 singapor pamper it waterfront promenad
+第 857 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 rwanda mull three child limit
+第 858 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 samsung settl price fix lawsuit
+第 859 组数据，结果错误 预测标签为 6 正确标签为 3 数据为 radic cleric al sadr in iran u s insist
+第 860 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 report harvard set to name first femal presid
+第 861 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 iraq unveil new secur plan
+第 862 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 univers offer support to new orlean school
+第 863 组数据，结果错误 预测标签为 6 正确标签为 3 数据为 storm caus slick ici road
+第 864 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 south korea fire kill foreign
+第 865 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 prehistor lover found lock in etern embrac
+第 866 组数据，结果错误 预测标签为 3 正确标签为 6 数据为 chart is your citi lean or letharg
+第 867 组数据，结果错误 预测标签为 6 正确标签为 5 数据为 peru leader question in massacr probe
+第 868 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 u s command iraq not hopeless
+第 869 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 australian pm stand by obama attack
+第 870 组数据，结果错误 预测标签为 6 正确标签为 4 数据为 mardi gra rebound in the of for new orlean
+第 871 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 siesta mai cut heart diseas risk
+第 872 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 oregon snorkel mistaken for rodent shot in face
+第 873 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 petraeu take command in iraq
+第 874 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 dead after utah mall shoot rampag
+第 875 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 shark kill four peopl in dull year
+第 876 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 record shatter dai on wall st
+第 877 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 comedian sai govern silenc critic
+第 878 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 rocker big winner at brit award
+第 879 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 samba school leader kill befor rio carniv
+第 880 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 taiwan s mr clean indict step down
+第 881 组数据，结果错误 预测标签为 4 正确标签为 1 数据为 woman fight to keep drunken driver in jail
+第 882 组数据，结果正确 预测标签为 3 正确标签为 3 数据为 al qaeda group call for attack on u s oil
+第 883 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 cousin gunman wa srebrenica survivor
+第 884 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 turkmenistan vote for presid
+第 885 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 here is some advic to take to heart
+第 886 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 don t miss tax break
+第 887 组数据，结果错误 预测标签为 4 正确标签为 1 数据为 polic break up kosovo protest
+第 888 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 messi make barcelona squad return
+第 889 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 jump report in accident drug overdos death
+第 890 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 catania punish for fan violenc
+第 891 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 isinbayeva set th world record
+第 892 组数据，结果错误 预测标签为 5 正确标签为 1 数据为 lawmak blast fda drug safeti oversight
+第 893 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 regular nap make heart healthi
+第 894 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 ic stop trollei cold
+第 895 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 u s gunman wa srebrenica survivor
+第 896 组数据，结果错误 预测标签为 4 正确标签为 2 数据为 outdat babi food found on shelv
+第 897 组数据，结果错误 预测标签为 4 正确标签为 2 数据为 tow truck driver accus of steal car
+第 898 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 bush it s time for congress to back energi plan
+第 899 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 uk soldier clear of iraq abus
+第 900 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 fda revis label warn on the antibiot ketek
+第 901 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 toshiba porteg r
+第 902 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 south africa mourn adelaid tambo
+第 903 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 evacue can return home after plant blast
+第 904 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 anna nicol smith s bodi li in legal limbo
+第 905 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 former teacher pose for playboi
+第 906 组数据，结果错误 预测标签为 4 正确标签为 1 数据为 franc reject rwandan investig
+第 907 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 a nap a dai mai keep the heart doctor awai
+第 908 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 higlei gonzalez lead in malaysia
+第 909 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 grammi readi to name winner
+第 910 组数据，结果错误 预测标签为 6 正确标签为 1 数据为 pound will not drop armstrong case
+第 911 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 reunit polic to start world tour in mai
+第 912 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 turkmen act leader sworn in as new presid
+第 913 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 allen and okur get all star call
+第 914 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 svindal claim ar golden doubl
+第 915 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 trollei squar shoot leav dead includ gunman
+第 916 组数据，结果错误 预测标签为 6 正确标签为 3 数据为 bridg blast stop i traffic
+第 917 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 mother daughter stab near school
+第 918 组数据，结果错误 预测标签为 4 正确标签为 2 数据为 excerpt politician and the press
+第 919 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 north korea get monei and respect
+第 920 组数据，结果错误 预测标签为 3 正确标签为 4 数据为 beyonc in a bikini as si s swimsuit cover model
+第 921 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 love with all your brain
+第 922 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 shoplift choic polic or t shirt of shame
+第 923 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 cuban offici web a wild colt
+第 924 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 slow music and lyric
+第 925 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 mexican navi help in hunt for u s engin
+第 926 组数据，结果错误 预测标签为 6 正确标签为 5 数据为 smith babi mai not be pot of gold
+第 927 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 latest updat on world s top stori
+第 928 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 beat leav teen in coma
+第 929 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 tiempo libr ha grammi dream
+第 930 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 gp sneaker locat with press of a button
+第 931 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 embattl edward blogger quit campaign
+第 932 组数据，结果正确 预测标签为 3 正确标签为 3 数据为 briton deport from somalia held under terror act
+第 933 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 updat on world s top stori
+第 934 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 breast cancer drug promis hope
+第 935 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 ancient coin show cleopatra wa no beauti
+第 936 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 youtub yield surpris payback
+第 937 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 up to inch of snow in forecast
+第 938 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 werder make man ajax pai price
+第 939 组数据，结果错误 预测标签为 4 正确标签为 1 数据为 eu condemn illeg cia flight
+第 940 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 report link human to global warm
+第 941 组数据，结果错误 预测标签为 5 正确标签为 1 数据为 un nuclear watchdog slash iran aid
+第 942 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 survei tech a tool in teen date abus
+第 943 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 the breast cancer breakthrough save women a year
+第 944 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 tourist spot resist graviti but not progress
+第 945 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 the nfl s biggest potenti free agent
+第 946 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 world tourism set record in
+第 947 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 ba to charg for an extra bag
+第 948 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 kuerten return to winner circl
+第 949 组数据，结果正确 预测标签为 6 正确标签为 6 数据为 world s oldest newspap now exist onli onlin
+第 950 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 japanes whaler afir in antarct
+第 951 组数据，结果错误 预测标签为 5 正确标签为 3 数据为 eu document iranian bomb unstopp
+第 952 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 u s urg to lead on green action
+第 953 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 see if your citi is on of the unit state top fittest or fattest
+第 954 组数据，结果错误 预测标签为 4 正确标签为 3 数据为 lee in pre world cup injuri scare
+第 955 组数据，结果错误 预测标签为 3 正确标签为 4 数据为 new cancer drug to save a thousand live a year
+第 956 组数据，结果错误 预测标签为 5 正确标签为 2 数据为 ex teacher guilti in nude pictur scheme
+第 957 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 fire extinguish part of tennesse execut kit
+第 958 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 founder return to dell helm
+第 959 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 charl gibson take over first place
+第 960 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 ex border patrol agent beaten in prison
+第 961 组数据，结果错误 预测标签为 4 正确标签为 1 数据为 made in china irk some burberri shopper
+第 962 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 stoneheng worker villag found
+第 963 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 who is princ freder von anhalt
+第 964 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 latest food fad space potato
+第 965 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 ethiopia readi for millennium all it own
+第 966 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 good new for slacker nap mai cut risk for heart problem
+第 967 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 snowbird shorten their florida stai
+第 968 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 win a concert date with the polic
+第 969 组数据，结果正确 预测标签为 3 正确标签为 3 数据为 snow begin heavi accumul expect
+第 970 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 jet flip in snowstorm none dead
+第 971 组数据，结果错误 预测标签为 3 正确标签为 6 数据为 frantic call in ryan o neal case
+第 972 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 durant s success trump the gator
+第 973 组数据，结果错误 预测标签为 4 正确标签为 2 数据为 scientist snoop in astronaut journal
+第 974 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 youtub founder split m payout
+第 975 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 african nation hope whoopi can help
+第 976 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 unit hang on to six point lead
+第 977 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 lawyer seiz smith s bahama home
+第 978 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 wa princ s super show too reveal
+第 979 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 clijster look for a long goodby
+第 980 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 snow s too deep even for snowmobil
+第 981 组数据，结果正确 预测标签为 6 正确标签为 6 数据为 studi femal seal picki about mate
+第 982 组数据，结果错误 预测标签为 4 正确标签为 1 数据为 roundup protest erupt despit state of sieg in guinea
+第 983 组数据，结果错误 预测标签为 6 正确标签为 2 数据为 studi more kid expos to onlin porn
+第 984 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 beyonc new si bikini cover girl
+第 985 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 marijuana help eas hiv nerv pain studi sai
+第 986 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 serena miss bangalor tournament
+第 987 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 dryer blame for fire kill cat dog
+第 988 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 roddick murrai score in san jose
+第 989 组数据，结果错误 预测标签为 5 正确标签为 4 数据为 appl trademark disput settl
+第 990 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 u s onlin love broker ey china
+第 991 组数据，结果错误 预测标签为 5 正确标签为 1 数据为 u s divert troop to fight taliban
+第 992 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 hous of card actor ian richardson dead
+第 993 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 taliban leader kill in airstrik
+第 994 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 escap to pragu without the summer hord
+第 995 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 kathmandu first snow in year
+第 996 组数据，结果错误 预测标签为 4 正确标签为 5 数据为 nasdaq fail in bid for lse
+第 997 组数据，结果正确 预测标签为 5 正确标签为 5 数据为 ex pastor get death sentenc
+第 998 组数据，结果错误 预测标签为 5 正确标签为 6 数据为 babi born on turnpik after dad miss exit
+第 999 组数据，结果错误 预测标签为 4 正确标签为 6 数据为 studi link chimp and hammer
+第 1000 组数据，结果正确 预测标签为 4 正确标签为 4 数据为 un googl earth map climat chang
+正确率: 38.00%
+
+进程已结束，退出代码为 0
